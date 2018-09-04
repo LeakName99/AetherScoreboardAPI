@@ -1,0 +1,1 @@
+new Aether(this, new ScoreboardLayoutExample(this));
